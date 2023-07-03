@@ -7,7 +7,7 @@
     "start:dev": "nodemon",
     "start:multi": "nodemon ./src/main-multi.ts",
     "start:prod": "tsc && ts-node ./build/main.js",
-    "start:prod-multi": "tsc && ts-node ./build/main.js",
+    "start:prod-multi": "tsc && ts-node ./build/main-multi.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
