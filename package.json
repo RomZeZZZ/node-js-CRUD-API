@@ -1,7 +1,7 @@
 {
   "name": "js-crud-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is simple CRUD API which is built using in-memory database",
   "main": "./src/main.ts",
   "scripts": {
     "start:dev": "nodemon",

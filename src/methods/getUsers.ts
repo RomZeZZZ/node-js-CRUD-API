@@ -1,4 +1,3 @@
-import { IUser } from "../types/interfaces";
 import { users } from "../variables";
 
 async function getUsers() {
